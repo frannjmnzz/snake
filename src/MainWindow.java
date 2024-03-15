@@ -1,3 +1,4 @@
+
 import java.awt.CardLayout;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
@@ -8,7 +9,10 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-
+/**
+ * 
+ * @author Francisco
+ */
 public class MainWindow extends JFrame{
 	
 	JPanel cards;
